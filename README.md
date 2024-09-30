@@ -104,11 +104,3 @@ Additional system dependencies such as **Ghostscript** are required for **Camelo
 ## Conclusion
 
 This project simplifies the process of downloading, extracting, and organizing structured data from government PDFs, allowing for further analysis and reporting. Whether you're working with tables or text, the combination of **Camelot** and **PDFplumber** ensures that both types of data can be efficiently extracted from PDFs.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
